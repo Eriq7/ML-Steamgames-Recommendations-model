@@ -88,6 +88,13 @@ This matrix serves as the input to the **implicit ALS** model, where latent fact
 ```
 
 ---
+## 📦 Setup & 🚀 How to Use
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Eriq7/ML-Steamgames-Recommendations-model.git
+   cd ML-Steamgames-Recommendations-model
+
 
 ## 🧑‍💻 Author
 **Qun Li**  
