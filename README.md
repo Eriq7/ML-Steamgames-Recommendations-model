@@ -91,6 +91,4 @@ This matrix serves as the input to the **implicit ALS** model, where latent fact
 
 ## 🧑‍💻 Author
 **Qun Li**  
-University of Toronto Mississauga  
-Machine Learning / Data Science Concentration  
-📧 [Add your LinkedIn or GitHub profile link here]
+
